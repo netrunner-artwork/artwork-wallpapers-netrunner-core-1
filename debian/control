@@ -1,12 +1,12 @@
-Source: artwork-wallpapers-netrunner-core
+Source: artwork-wallpapers-netrunner-core-1
 Section: unknown
 Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.8
-Homepage: https://github.com/netrunner-artwork/artwork-wallpapers-netrunner-core-1
+Homepage: https://github.com/netrunner-artwork/artwork-wallpapers-netrunner-core-1-1
 
-Package: artwork-wallpapers-netrunner-core
+Package: artwork-wallpapers-netrunner-core-1
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: artwork for netrunner-core
